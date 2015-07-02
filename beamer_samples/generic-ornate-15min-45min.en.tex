@@ -2,6 +2,9 @@
 
 \documentclass{beamer}
 
+\usepackage{pgfpages}
+\setbeameroption{show notes on second screen}
+
 % This file is a solution template for:
 
 % - Giving a talk on some subject.
@@ -20,7 +23,7 @@
 % template and not specifically distribute it as part of a another
 % package/program, I grant the extra permission to freely copy and
 % modify this file as you see fit and even to delete this copyright
-% notice. 
+% notice.
 
 
 \mode<presentation>
@@ -73,7 +76,7 @@
 
 \subject{Talks}
 % This is only inserted into the PDF information catalog. Can be left
-% out. 
+% out.
 
 
 
@@ -97,7 +100,7 @@
 
 
 % If you wish to uncover everything in a step-wise fashion, uncomment
-% the following command: 
+% the following command:
 
 %\beamerdefaultoverlayspecification{<+->}
 
@@ -117,7 +120,7 @@
 % Since this a solution template for a generic talk, very little can
 % be said about how it should be structured. However, the talk length
 % of between 15min and 45min and the theme suggest that you stick to
-% the following rules:  
+% the following rules:
 
 % - Exactly two or three sections (other than the summary).
 % - At *most* three subsections per section.
@@ -138,6 +141,9 @@
   \item
     Use very short sentences or short phrases.
   \end{itemize}
+
+  \note{This slide isn't previewed on presenter window.} %this is the new line !!!
+
 \end{frame}
 
 \begin{frame}{Make Titles Informative.}
@@ -149,7 +155,7 @@
     \item
       First item.
       \pause
-    \item    
+    \item
       Second item.
     \end{itemize}
   \item
@@ -174,7 +180,7 @@
 
 \subsection{Second Subsection}
 
-\begin{frame}{Make Titles Informative.}
+\begin{frame}{Make Titles Informative with notes}
 \end{frame}
 
 \begin{frame}{Make Titles Informative.}
@@ -195,7 +201,7 @@
   \item
     Perhaps a \alert{third message}, but not more than that.
   \end{itemize}
-  
+
   % The following outlook is optional.
   \vskip0pt plus.5fill
   \begin{itemize}
@@ -212,5 +218,3 @@
 
 
 \end{document}
-
-
