@@ -305,13 +305,14 @@ Main source code repository on github at [henrythebuilder/dcm_dict](https://gith
 <div class="footnotes">
 <hr />
 <ol>
-<li id="fn-dcm-trademark">
-<p><a href="http://www.dicomstandard.org/" title="DICOM Standard">DICOM<sup>©</sup></a> is the registered trademark of the National Electrical Manufacturers Association for its standards publications relating to digital communications of medical information.</p>
+<li id="fn1-dcm-trademark">
+<p><a href="http://www.dicomstandard.org/" title="DICOM Standard">DICOM<sup>©</sup></a> is the registered trademark of the National Electrical Manufacturers Association for its standards publications relating to digital communications of medical information.
+<a href="#fn-dcm-trademark"  class='footnoteBackLink'  title="Jump back to footnote 1 in the text.">&#x21A9;&#xFE0E;</a></p>
 </li>
 </ol>
 </div>
 
-[1]: #fn-dcm-trademark
+[1]: #fn1-dcm-trademark
 
 [dcm1]: http://medical.nema.org/dicom/ "DICOM Homepage"
 [2]: http://www.dclunie.com/dicom-status/status.html "DICOM Standard Status"
