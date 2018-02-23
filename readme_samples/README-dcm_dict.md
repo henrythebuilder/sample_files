@@ -4,12 +4,11 @@
 # Why *DcmDict*
 With the new releases from year 2014 DICOM documents are available in different format including one particularly interesting, the *DocBook* XML version.
 
-As D. Clunie writes on [his web site][2]:
-
+As D. Clunie writes on his web site in the [DICOM Standard Status page][2]:
 > "... other formats (such as DocBook, HTML, Word and ODT) are also made available for the convenience of implementors who may need to extract machine-readable content, ..."
 
-This is also described in DICOM<sup>©</sup> Standard [web site][10]
-" ... Each Part is published in multiple formats ..." and the XML format is "... good for machine readability, e.g. self-updating validators ..."
+This is confirmed in the DICOM<sup>©</sup> Standard [web site][10] where each part is published in [multiple formats][11] and the XML format is defined:
+>"... good for machine readability, e.g. self-updating validators ..."
 
 This is great news for anyone involved in the study of the standard !
 
@@ -327,3 +326,4 @@ Main source code repository on github at [henrythebuilder/dcm_dict](https://gith
 [8]: https://github.com/oneclick/rubyinstaller "RubyInstaller for Windows"
 [9]: https://rubygems.org/
 [10]: http://www.dicomstandard.org/
+[11]: http://www.dicomstandard.org/current/
