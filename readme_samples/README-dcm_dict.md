@@ -8,6 +8,9 @@ As D. Clunie writes on [his web site][2]:
 
 > "... other formats (such as DocBook, HTML, Word and ODT) are also made available for the convenience of implementors who may need to extract machine-readable content, ..."
 
+This is also described in DICOM<sup>©</sup> Standard [web site][10]
+" ... Each Part is published in multiple formats ..." and the XML format is "... good for machine readability, e.g. self-updating validators ..."
+
 This is great news for anyone involved in the study of the standard !
 
 Starting from this thing was born the idea of trying to automate the extraction of data from XML documents to make available the information in a simple way that simplifies the study of the DICOM standard, in the hope this idea will be useful and inspiration.
@@ -323,3 +326,4 @@ Main source code repository on github at [henrythebuilder/dcm_dict](https://gith
 [7]: http://rubyinstaller.org/ "The easy way to install Ruby on Windows"
 [8]: https://github.com/oneclick/rubyinstaller "RubyInstaller for Windows"
 [9]: https://rubygems.org/
+[10]: http://www.dicomstandard.org/
